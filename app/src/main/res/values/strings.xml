@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name">Razones financieras</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Razones financieras</string>
+    <string name="nav_header_subtitle">razonesfinancieras@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+
+    <string name="menu_current_reasons">Razón corriente</string>
+    <string name="form_current_asset">Activo corriente</string>
+    <string name="form_current_passive">Pasivo corriente</string>
+
+    <string name="menu_operating_profit_margin">Margen operac. de utilidad</string>
+    <string name="form_operating_profit">Utilidad operacional</string>
+    <string name="form_net_sale">Venta neta</string>
+
+    <string name="menu_prod_rotation_process">Rotación prod. en proceso</string>
+    <string name="form_product_cost">Costo del producto</string>
+    <string name="form_avg">IPP (Promedio)</string>
+
+    <string name="menu_times_wallet_rotates">Veces que rota la cartera</string>
+    <string name="form_sales_credit_period">Ventas crédito del periodo</string>
+    <string name="form_accounts_receivable">Cuentas por cobrar</string>
+
+    <string name="menu_finished_product_turnover">Rotación prod. terminados</string>
+    <string name="form_sales_cost">Costo de venta</string>
+    <string name="form_ipt_avg">IPT (Promedio)</string>
+
+    <string name="menu_net_profit_margin">Margen neta de utilidad</string>
+    <string name="form_net_profit">Utilidad neta</string>
+    <!--form_net_sale (venta neta) is already defined -->
+
+    <string name="menu_debt_level">Nivel de endeudamiento</string>
+    <string name="form_passive_total">Pasivo total</string>
+    <string name="form_active_total">Activo total</string>
+
+    <string name="menu_equity_profitability">Rentabilidad patrimonial</string>
+    <!--form_net_profit (utilidad neta) is already defined -->
+    <string name="form_patrimony">Patrimonio</string>
+
+    <string name="menu_short_term_debt_concentration">Concent. endeudamiento</string>
+    <string name="short_term_debt_concentration_title">Concentración de endeudamiento (Corto plazo)</string>
+    <!--form_current_passive (pasivo corriente) is already defined -->
+    <!--form_passive_total (pasivo total) is already defined -->
+
+    <string name="menu_inventory_rotation">Rotación de inventario</string>
+    <string name="inventory_rotation_title">Rotación de inventario (Mercancía)</string>
+    <string name="form_ware_sold_cost">Costo de la mercacía vendida</string>
+    <string name="form_avg_ware_inventory">Inventario promedio de mercancías</string>
+
+    <string name="menu_total_leverage">Apalancamiento total</string>
+    <!--form_passive_total (pasivo total) is already defined -->
+    <!--form_patrimony (patrimonio) is already defined -->
+
+    <string name="menu_return_investment">Rentabilidad de la inversión</string>
+    <!--form_net_profit (utilidad neta) is already defined -->
+    <!--form_active_total (activo total) is already defined -->
+
+    <string name="menu_short_term_leverage">Apalancamiento a corto plazo</string>
+    <!--form_current_passive (pasivo corriente) is already defined -->
+    <!--form_patrimony (patrimonio) is already defined -->
+
+    <string name="menu_investment_turnover">Rotación de la inversión</string>
+    <string name="form_sale">Ventas</string>
+    <!--form_active_total (activo total) is already defined -->
+
+    <string name="menu_financial_appeasement">Apalancamiento financiero</string>
+    <string name="form_financial_passive">Pasivo Ent. Financ</string>
+    <!--form_patrimony (patrimonio) is already defined -->
+
+    <string name="menu_gross_profit_margin">Margen bruto de utilidad</string>
+    <string name="form_gross_profit">Utilidad bruta</string>
+    <!--form_net_sale (Venta neta) is already defined -->
+
+    <string name="button_calculate">Calcular</string>
+    <string name="form_result">Resultado</string>
+
+</resources>

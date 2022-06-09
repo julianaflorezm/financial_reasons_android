@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".timesWalletRotates.TimesWalletRotatesFragment">
+
+    <TextView
+        android:id="@+id/times_wallet_rotates"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_times_wallet_rotates"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/title_size"
+        android:textStyle="bold"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/times_wallet_rotates"
+        >
+        <EditText
+            android:id="@+id/sales_credit_period"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_sales_credit_period"
+            android:inputType="number"
+            />
+        <EditText
+            android:id="@+id/accounts_receivable"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_accounts_receivable"
+            android:inputType="number"
+            />
+
+        <TextView
+            android:id="@+id/result_times_wallet_rotates"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_result"
+            android:textColor="@color/purple_200"
+            android:textSize="@dimen/result_size"
+            android:layout_marginBottom="@dimen/fab_margin"
+            android:textColorHint="@color/purple_200"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            />
+
+        <Button
+            tools:context=".timesWalletRotates.TimesWalletRotatesFragment"
+            android:id="@+id/button_times_wallet_rotates"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_calculate"
+            />
+    </LinearLayout>
+</RelativeLayout>

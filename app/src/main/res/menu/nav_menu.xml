@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_current_reason"
+            android:icon="@drawable/ic_current_reason"
+            android:title="@string/menu_current_reasons"
+            android:tooltipText="@string/menu_current_reasons" />
+        <item
+            android:id="@+id/nav_operating_profit_margin"
+            android:icon="@drawable/ic_operating_profit_margin"
+            android:title="@string/menu_operating_profit_margin"
+            android:tooltipText="@string/menu_operating_profit_margin" />
+        <item
+            android:id="@+id/nav_prod_rotation_process"
+            android:icon="@drawable/ic_prod_rotation_process"
+            android:title="@string/menu_prod_rotation_process"
+            android:tooltipText="@string/menu_prod_rotation_process" />
+        <item
+            android:id="@+id/nav_times_wallet_rotates"
+            android:icon="@drawable/ic_times_wallet_rotates"
+            android:title="@string/menu_times_wallet_rotates"
+            android:tooltipText="@string/menu_times_wallet_rotates" />
+        <item
+            android:id="@+id/nav_finished_product_turnover"
+            android:icon="@drawable/ic_finished_product_turnover"
+            android:title="@string/menu_finished_product_turnover"
+            android:tooltipText="@string/menu_finished_product_turnover" />
+        <item
+            android:id="@+id/nav_net_profit_margin"
+            android:icon="@drawable/ic_net_profit_margin"
+            android:title="@string/menu_net_profit_margin"
+            android:tooltipText="@string/menu_net_profit_margin" />
+        <item
+            android:id="@+id/nav_debt_level"
+            android:icon="@drawable/ic_debt_level"
+            android:title="@string/menu_debt_level"
+            android:tooltipText="@string/menu_debt_level" />
+        <item
+            android:id="@+id/nav_equity_profitability"
+            android:icon="@drawable/ic_equity_profitability"
+            android:title="@string/menu_equity_profitability"
+            android:tooltipText="@string/menu_equity_profitability" />
+        <item
+            android:id="@+id/nav_short_term_debt_concentration"
+            android:icon="@drawable/ic_short_term_debt_concentration"
+            android:title="@string/menu_short_term_debt_concentration"
+            android:tooltipText="@string/menu_short_term_debt_concentration" />
+        <item
+            android:id="@+id/nav_inventory_rotation"
+            android:icon="@drawable/ic_inventory_rotation"
+            android:title="@string/menu_inventory_rotation"
+            android:tooltipText="@string/menu_inventory_rotation" />
+        <item
+            android:id="@+id/nav_total_leverage"
+            android:icon="@drawable/ic_total_leverage"
+            android:title="@string/menu_total_leverage"
+            android:tooltipText="@string/menu_total_leverage" />
+        <item
+            android:id="@+id/nav_return_investment"
+            android:icon="@drawable/ic_return_investment"
+            android:title="@string/menu_return_investment"
+            android:tooltipText="@string/menu_return_investment" />
+        <item
+            android:id="@+id/nav_short_term_leverage"
+            android:icon="@drawable/ic_short_term_leverage"
+            android:title="@string/menu_short_term_leverage"
+            android:tooltipText="@string/menu_short_term_leverage" />
+        <item
+            android:id="@+id/nav_investment_turnover"
+            android:icon="@drawable/ic_investment_turnover"
+            android:title="@string/menu_investment_turnover"
+            android:tooltipText="@string/menu_investment_turnover" />
+        <item
+            android:id="@+id/nav_financial_appeasement"
+            android:icon="@drawable/ic_financial_appeasement"
+            android:title="@string/menu_financial_appeasement"
+            android:tooltipText="@string/menu_financial_appeasement" />
+        <item
+            android:id="@+id/nav_gross_profit_margin"
+            android:icon="@drawable/ic_gross_profit_margin"
+            android:title="@string/menu_gross_profit_margin"
+            android:tooltipText="@string/menu_gross_profit_margin" />
+    </group>
+</menu>

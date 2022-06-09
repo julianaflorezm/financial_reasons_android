@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable-v24/side_nav_bar.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_acid_test.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_baseline_monetization_on_24.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_current_reason.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_debt_level.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_equity_profitability.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_financial_appeceament.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_finished_prod_rotation.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_fn_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_gross_profit_margin.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_inventory_rotation.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_investment_turnover.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_net_profit_margin.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_operating_profit_margin.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_prod_rotation_process.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_return_investment.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_short_term_debt_concentration.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_short_term_leverage.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_times_wallet_rotates.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_total_capitalization.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_total_leverage.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/drawable/ic_working_capital.xml" value="0.1805" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/activity_main.xml" value="0.1082427536231884" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment__return_investment.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_current_reason.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_debt_level.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_equity_profitability.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_financial_appeasement.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_finished_product_turnover.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_gross_profit_margin.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_inventory_rotation.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_investment_turnover.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_net_profit_magin.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_operating_profit_magin.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_prod_rotation_process.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_return_investment.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_short_term_debt_concentration.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_short_term_leverage.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_times_wallet_rotates.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/fragment_total_leverage.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/layout/nav_header.xml" value="0.1" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/menu/nav_menu.xml" value="0.1328125" />
+        <entry key="..\:/Users/juliana.florez/AndroidStudioProjects/FinancialReasons/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

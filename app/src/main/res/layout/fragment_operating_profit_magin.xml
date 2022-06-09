@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".operatingProfitMargin.OperatingProfitMarginFragment">
+
+    <TextView
+        android:id="@+id/operating_profit_margin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/menu_operating_profit_margin"
+        android:layout_marginTop="@dimen/fab_margin"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/title_size"
+        android:textStyle="bold"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/operating_profit_margin"
+        >
+        <EditText
+            android:id="@+id/operating_profit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_operating_profit"
+            android:inputType="number"
+            />
+        <EditText
+            android:id="@+id/net_sale"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_net_sale"
+            android:inputType="number"
+            />
+
+        <TextView
+            android:id="@+id/result_operating_profit_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/edit_text_margin"
+            android:hint="@string/form_result"
+            android:textColor="@color/purple_200"
+            android:textSize="@dimen/result_size"
+            android:layout_marginBottom="@dimen/fab_margin"
+            android:textColorHint="@color/purple_200"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            />
+
+        <Button
+            tools:context=".operatingProfitMargin.OperatingProfitMarginFragment"
+            android:id="@+id/button_operating_profit_margin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/button_calculate"
+            />
+    </LinearLayout>
+</RelativeLayout>
