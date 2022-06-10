@@ -21,6 +21,7 @@ import com.example.financialreasons.shortTermDebtConcentration.ShortTermDebtConc
 import com.example.financialreasons.shortTermLeverage.ShortTermLeverageFragment
 import com.example.financialreasons.timesWalletRotates.TimesWalletRotatesFragment
 import com.example.financialreasons.totalLeverage.TotalLeverageFragment
+import com.example.financialreasons.workingCapital.WorkingCapitalFragment
 import kotlinx.android.synthetic.main.activity_main.*
 
 
@@ -194,6 +195,16 @@ class MainActivity : AppCompatActivity() {
                     supportFragmentManager.beginTransaction().apply {
                         replace(R.id.fragmentContainerView,
                             GrossProfitMarginFragment()
+                        )
+                        commit()
+                    }
+                    drawer_layout.closeDrawer(GravityCompat.START)
+                    true
+                }
+                R.id.nav_working_capital -> {
+                    supportFragmentManager.beginTransaction().apply {
+                        replace(R.id.fragmentContainerView,
+                            WorkingCapitalFragment()
                         )
                         commit()
                     }

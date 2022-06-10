@@ -84,5 +84,10 @@
             android:icon="@drawable/ic_gross_profit_margin"
             android:title="@string/menu_gross_profit_margin"
             android:tooltipText="@string/menu_gross_profit_margin" />
+        <item
+            android:id="@+id/nav_working_capital"
+            android:icon="@drawable/ic_working_capital"
+            android:title="@string/menu_working_capital"
+            android:tooltipText="@string/menu_working_capital" />
     </group>
 </menu>

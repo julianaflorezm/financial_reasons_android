@@ -73,6 +73,10 @@
     <string name="form_gross_profit">Utilidad bruta</string>
     <!--form_net_sale (Venta neta) is already defined -->
 
+    <string name="menu_working_capital">Capital de trabajo</string>
+    <!--form_current_asset (activo corriente) is already defined -->
+    <!--form_current_passive (pasivo corriente) is already defined -->
+
     <string name="button_calculate">Calcular</string>
     <string name="form_result">Resultado</string>
 
